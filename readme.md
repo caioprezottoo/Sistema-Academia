@@ -6,10 +6,10 @@ Este é o meu projeto feito para um trabalho da faculdade. A ideia seria montar 
 
 ## Escolha de Tecnologias:
 
-Foi escolhido pelo professor utilizarmos da linguagem C. Neste período da faculdade aprendemos a manipular arquivos, assim tive que criar um "banco de dados" com os arquivos .csv
+Foi escolhido pelo professor utilizarmos da linguagem em C. Neste período da faculdade aprendemos a manipular arquivos, assim tive que criar um "banco de dados" com os arquivos .csv.
 
 # Tecnologias utilizadas
--Linguagem C
+- Linguagem C
 
 # Autor
 
